@@ -336,7 +336,12 @@ CPU-Temperatur (Kann-Anforderung) wird über WMI gelesen und ist mainboard-abhä
 **Gesamt: Muss 6/6 · Soll 6/6 · Pflichtanforderungen vollständig erfüllt.**
 
 ---
+# 8 Schlusswort
 
+Dieses Projekt wurde innerhalb weniger Tage erfolgreich umgesetzt und abgeschlossen. Leider konnte das ursprünglich geplante Projekt nicht vollständig fertiggestellt werden. Dennoch ist diese Umsetzung eine gelungene Anbindung und Erweiterung meiner Probe-IPA-Arbeit.
+
+
+---
 
 # Lieferumfang & Schnellstart
 
