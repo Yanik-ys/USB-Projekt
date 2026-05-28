@@ -1,0 +1,2 @@
+../Core/Src/FT6236.c:96:16:ft6236_init	32	static
+../Core/Src/FT6236.c:155:6:ft6236_read	48	static
